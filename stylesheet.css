@@ -1,0 +1,49 @@
+
+
+
+
+#navbar {
+
+margin-bottom:10px;
+height:35px;
+
+}
+
+
+#navbar  {
+padding:5px;
+padding-right:40px;
+text-align:center;
+list-style-type:none;
+
+
+}
+
+#navbar ul li {
+display:inline;
+
+}
+
+#navbar ul li a {
+text-decoration:none;
+font-family:Open Sans;
+background-color:gray;
+color:black;
+padding:10px;
+line-height:10px;
+border-top:solid 2px black;
+border-bottom:solid 2px black;
+border-right:solid 1px black;
+border-left:solid 1px black;
+border-radius: 9px;
+}
+
+#navbar ul li a:hover {
+color:#5B4A3A;
+background-color:white;
+}
+
+
+
+
+
